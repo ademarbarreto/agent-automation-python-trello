@@ -16,8 +16,8 @@ build/
 .adk/
 
 # Ambientes virtuais
-.agentdicit/
-agentdicit/
+.agentdiocit/
+agentdiocit/
 .venv/
 venv/
 env/
